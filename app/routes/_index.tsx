@@ -3,7 +3,7 @@ import * as React from "react";
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: "Remix App -  Deno KV Demo" },
+    { title: "Remix -  Deno KV Beta " },
     { name: "description", content: "Welcome to Remix!" },
   ];
 };

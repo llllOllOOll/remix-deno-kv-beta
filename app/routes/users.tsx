@@ -46,8 +46,8 @@ export default function Users() {
         </div>
         <div>
           github:{" "}
-          <Link to="https://www.youtube.com/@RemixJS-Brasil">
-            RemixJS Brasil
+          <Link to="https://github.com/llllOllOOll/remix-deno-kv-beta">
+            github.com/llllOllOOll
           </Link>
         </div>
       </footer>

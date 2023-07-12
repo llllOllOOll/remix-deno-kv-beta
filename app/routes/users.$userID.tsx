@@ -1,3 +1,4 @@
+// deno-lint-ignore-file
 import { ActionArgs, redirect, json } from "@remix-run/deno";
 import React from "react";
 //@ts-ignore
